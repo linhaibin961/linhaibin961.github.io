@@ -6,7 +6,8 @@ date:       2019-01-20 20:25:33
 author:     "linhaibin961"
 header-img: "img/post-bg-2019.jpg"
 tags:
-    - 生活
+    - JAVA基础
+    - JAVA内存溢出
 ---
 
 # java内存溢出记录
