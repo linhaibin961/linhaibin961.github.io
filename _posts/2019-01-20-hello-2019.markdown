@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "Welcome to Haibin Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2019-01-20 20:25:23
+author:     "linhaibin961"
+header-img: "img/post-bg-2019.jpg"
+tags:
+    - 生活
+---
+
+> “Hello World, Hello Blog!”
+
